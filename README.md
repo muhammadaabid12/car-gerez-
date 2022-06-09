@@ -29,9 +29,3 @@
 - **Express**
 - **MongoDB**
 
-### `Website Link :` [https://my-gerez.web.app](https://my-gerez.web.app)
-
-<hr/>
-
-**[Back-end Repository](https://github.com/SohelIslamImran/gerez-server)**
-<hr/>
